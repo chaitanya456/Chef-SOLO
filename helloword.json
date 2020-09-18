@@ -1,4 +1,4 @@
 {
-    "run_list": "recipe[hello::ap],recipe[tomcat]"
+    "run_list": "recipe[hello::ap]"
     
 }
